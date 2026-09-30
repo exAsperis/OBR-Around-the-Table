@@ -1,0 +1,15 @@
+{
+  "name": "Around the Table (Local)",
+  "version": "0.1.1",
+  "manifest_version": 1,
+  "description": "Local development manifest for Around the Table.",
+  "author": "ex Asperis",
+  "background_url": "http://localhost:5173/background.html",
+  "action": {
+    "title": "Around the Table",
+    "icon": "http://localhost:5173/icon.svg",
+    "popover": "http://localhost:5173/extension.html",
+    "width": 360,
+    "height": 520
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Around the Table",
+  "version": "0.1.1",
+  "manifest_version": 1,
+  "description": "View one canonical Owlbear Rodeo scene from personal rotational perspectives.",
+  "author": "ex Asperis",
+  "background_url": "/background.html",
+  "action": {
+    "title": "Around the Table",
+    "icon": "/icon.svg",
+    "popover": "/extension.html",
+    "width": 360,
+    "height": 520
+  }
+}

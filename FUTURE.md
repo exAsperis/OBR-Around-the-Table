@@ -1,0 +1,3 @@
+# Future work
+
+This proof of concept deliberately does not implement: arbitrary player angles, 45° views, continuous rotation, native Move tool interception, native transformer handles, selection synchronization, multiple selection, token rotation, token resizing, copy/paste, duplicate/delete through proxies, attachments, text, drawings, shapes, curves, rulers, pointers, fog, Dynamic Fog, Smoke & Spectre, Stage Manager, DoorJam, effects, lights, transformed OBR grid rendering, map editing, context-menu translation, third-party extension proxy-ID translation, or performance optimization for very large scenes.
